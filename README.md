@@ -1,2 +1,4 @@
-# CSCI400Project
-CSCI 400 POS System Project
+# CSCI 400 Project
+## POS System
+
+###Britt Herring
